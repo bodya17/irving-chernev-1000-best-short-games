@@ -29,3 +29,49 @@ and see how it traps an unsuspecting opponent!
 9. Qd2 d5 10. exd5 exd5 11. Bh6 O-O 12. Bxg7 Kxg7
 13. Nf4 d4 14. Ncd5 Ra7 15. Rae1 Re8 16. h4 Rd7
 17. Nf6 Kxf6 18. Nh5+ gxh5 19. Qg5#
+
+#664
+Chess is not a game that can be played (thank God!) mechanically.
+Moves that just look plausible, even in so powerful, even in so powerful
+an opening as teh Queen's Pawn, are often smashed quickly.
+
+[Site "Munich"]
+[Date "1936"]
+[White "Anglares"]
+[Black "Rielly"]
+[Result "0-1"]
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O
+5. e3 d5 6. Bd3 c5 7. Nf3 Nc6 8. dxc5 Bxc5
+9. Qe2 Nb4 10. Bb1 dxc4 11. Qxc4 b6 12. Qh4 Ba6
+13. Ne4 Nd3+ 14. Bxd3 Qxd3 15. Nxf6+ gxf6 16. O-O-O Ba3
+17. bxa3 Rac8+ 18. Kb2 Qc2+ 19. Ka1 Bc4
+
+#666
+Black resigns with a piece ahead! This seems strange,
+since if he plays on he will be the recipient of further gifts!
+
+[Site "Madrid"]
+[Date "1951"]
+[White "Giusfolisi"]
+[Black "Torrens"]
+[Result "1-0"]
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7
+5. Nc3 O-O 6. Nh3 d6 7. O-O c6 8. e4 fxe4
+9. Nxe4 Nxe4 10. Bxe4 e5 11. dxe5 Bxh3 12. Qh5 Bf5
+13. Bxf5 g6 14. Be6+ Kh8 15. Qe2 dxe5 16. Bh6 Rf6
+17. Qxe5 Qd6 18. Qc3 Qxe6 19. Rae1
+
+#667
+White discovers a new move in an old opening, wins a brilliant game,
+and perpetuates his name in the bright lexicon of the Ruy Lopez.
+
+[Site "Correspondence"]
+[Date "1939"]
+[White "Adam"]
+[Black "Seibold"]
+[Result "1-0"]
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6
+5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6
+9. Qe2 {An improvement on the castomary 9. c3} Na5 10. Nbd2 c5 11. Nxe4 dxe4 12. Bxe6 exf3
+13. Bxf7+ Kxf7 14. Qxf3+ Ke8 15. Rd1 Qc8 16. e6 Qb7
+17. Rd5 Qe7 18. Bg5 Qxe6 19. Kf1
